@@ -6,5 +6,5 @@ export default {
   storageBucket: "communitymap42.appspot.com",
   messagingSenderId: "84150682459",
   appId: "1:84150682459:web:a1c76cdaf9ac8a1a5c907e",
-  measurementId: "G-THYPGCDTVM"
+  measurementId: "G-THYPGCDTVM",
 };
